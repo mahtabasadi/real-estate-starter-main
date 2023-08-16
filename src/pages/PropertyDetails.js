@@ -4,7 +4,7 @@ import React from "react";
 import { housesData } from "../data";
 
 // import useParams
-import { Link, useParams } from "react-router-dom";
+import { Link , useParams } from "react-router-dom";
 
 // import icons
 import { BiBed, BiBath, BiArea } from "react-icons/bi";
