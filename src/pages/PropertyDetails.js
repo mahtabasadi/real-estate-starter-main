@@ -1,7 +1,7 @@
 import React from "react";
 
 // import data
-import { housesData } from "../data";
+import {housesData} from "../data";
 
 // import useParams
 import { Link , useParams } from "react-router-dom";
